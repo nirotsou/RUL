@@ -1,0 +1,5 @@
+2023-04-27 11:34:02 info: tempDirectory:c:\Users\Niro Tsou\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-27 11:34:02 info: Extraction complete for source: c:\Users\Niro Tsou\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Niro Tsou\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-27 11:34:02 info: Congratulations, your extension "Embold" is now active!
+2023-04-27 11:35:06 info: file:///d%3A/Work/Reference/RUL/.git/index.lock
+2023-04-27 11:35:06 error: SQLITE_ERROR: no such table: issues
